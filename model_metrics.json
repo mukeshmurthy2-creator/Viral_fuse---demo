@@ -1,0 +1,14 @@
+{
+  "n_mutations": 287,
+  "cv_r2_mean": -0.0019116202267962957,
+  "cv_r2_std": 0.0019301334347944026,
+  "cv_mae_mean": 0.1728637585696146,
+  "cv_mae_std": 0.013504189827089912,
+  "train_r2": 0.004087843702960892,
+  "train_mae": 0.17259370866101245,
+  "pearson_r": 0.33594502826651995,
+  "pearson_p": 5.316660694170535e-09,
+  "data_source": "Curated from Greaney, Starr, Bloom, Cao et al. 2021-2022",
+  "model": "Ridge(alpha=1.0) on ESM-2 esm2_t6_8M_UR50D mean embeddings",
+  "cv_folds": 5
+}

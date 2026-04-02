@@ -1,0 +1,9 @@
+streamlit==1.38.0
+torch==2.4.1
+esm
+joblib
+plotly
+pandas
+numpy
+scipy
+scikit-learn
